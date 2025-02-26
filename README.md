@@ -1,7 +1,8 @@
 
 👩‍🎓 홍익대학교 컴퓨터공학과 졸업</br>
-💻 삼성 청년 SW 아카데미(SSAFY) 12기
+💻 삼성 청년 SW 아카데미(SSAFY) 12기</br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mint130&show_icons=true) </br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mintminju130)](https://solved.ac/mintminju130/)
 
 ## 💪Skills
